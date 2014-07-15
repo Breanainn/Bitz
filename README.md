@@ -102,4 +102,13 @@ http://discuss.tweepy.org/t/authentication-failed-error-code-32/36
 
 Ben Nuttall pointed out we only had Read Only permissions in the designated Crystalpi twitter account. He changed the permissions.
 
+Once Read and Write permission set up, new twitter codes needed. Don't type them out - copy and paste to avoid errors.
+
+#scratch team picademy 3 
+
+@SorinaBee
+@sezzyann72
+@MissKMcD
+@breanainn
+
 
