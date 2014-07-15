@@ -1,9 +1,7 @@
 Crystalpi
 ====
 
-Raspberry Pi Primary School
-
-Raspberry Pi Picamera Photobooth Fortune Teller
+Raspberry Pi Picamera Photobooth Fortune Teller TwitterBot
 
 Photobooth code from pastebin: http://pastebin.com/download.php?i=Bj2mCs2x
 
