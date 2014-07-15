@@ -102,5 +102,6 @@ We had problems with the twitter API codes. Regenerating the authentication code
 
 http://discuss.tweepy.org/t/authentication-failed-error-code-32/36
 
+Ben Nuttall pointed out we only had Read Only permissions in the designated Crystalpi twitter account. He changed the permissions.
 
 
