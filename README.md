@@ -1,4 +1,4 @@
-Bitz
+Crystalpi
 ====
 
 Raspberry Pi Primary School
