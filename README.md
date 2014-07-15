@@ -3,9 +3,9 @@ Bitz
 
 Raspberry Pi Primary School
 
-Raspberry Pi
+Raspberry Pi Picamera Photobooth Fortune Teller
 
-Photobooth code from pastebin:
+Photobooth code from pastebin: http://pastebin.com/download.php?i=Bj2mCs2x
 
 import picamera
 from time import sleep
@@ -76,7 +76,7 @@ pygame.quit()
 
 ...
 
-Ideas
+#Ideas
 
 Change font from yellow
 Shorter fortune messages
@@ -90,9 +90,16 @@ http://raspi.tv/2013/how-to-create-a-twitter-app-on-the-raspberry-pi-with-python
 
 http://raspi.tv/2014/tweeting-with-python-tweepy-on-the-raspberry-pi-part-2-pi-twitter-app-series
 
-We had this error message:
+#We had this error message:
 
 https://github.com/tweepy/tweepy/issues/15
+
+Top tip - don't name your .py code file the same name as the relevant software file e.g. Tweepy
+
+#Error No2
+
+We had problems with the twitter API codes. Regenerating the authentication codes didn't solve it though.
+
 
 
 
