@@ -96,11 +96,11 @@ https://github.com/tweepy/tweepy/issues/15
 
 Top tip - don't name your .py code file the same name as the relevant software file e.g. Tweepy
 
-#Error No2
+#Error 32
 
 We had problems with the twitter API codes. Regenerating the authentication codes didn't solve it though.
 
-
+http://discuss.tweepy.org/t/authentication-failed-error-code-32/36
 
 
 
