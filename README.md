@@ -81,3 +81,19 @@ Ideas
 Change font from yellow
 Shorter fortune messages
 Give children the code so they can add their own message ideas
+
+Now, can the pic and fortune message be published to twitter?
+
+We used this:
+
+http://raspi.tv/2013/how-to-create-a-twitter-app-on-the-raspberry-pi-with-python-tweepy-part-1#install
+
+http://raspi.tv/2014/tweeting-with-python-tweepy-on-the-raspberry-pi-part-2-pi-twitter-app-series
+
+We had this error message:
+
+https://github.com/tweepy/tweepy/issues/15
+
+
+
+
